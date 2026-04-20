@@ -1,0 +1,16 @@
+# Node
+node_modules/
+
+# Playwright
+test-results/
+playwright-report/
+blob-report/
+
+# Env (VERY IMPORTANT)
+.env
+
+# Logs
+*.log
+
+# Mac
+.DS_Store
